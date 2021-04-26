@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @rkoszalka
+- 👋 I work as Software Engineer at Dell
 - 👀 I’m interested in mathematics, chess, quantitative analysis
 - 🌱 I’m currently learning hyperledger fabric
 - 💞️ I’m looking to collaborate on quant analysis software, or hvm nodes
