@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @rkoszalka
 - 👀 I’m interested in mathematics, chess, quantitative analysis
-- 🌱 I’m currently learning C# and .NET Core
-- 💞️ I’m looking to collaborate on quant analysis software, or hvm nodes
+- 💞️ I’m looking to collaborate on quant analysis software, or C# and Java projects
 - 📫 How to reach me at: rmkoszalka@gmail.com
 
 <!---
